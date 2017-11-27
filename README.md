@@ -7,7 +7,10 @@
   <a href="https://www.gnu.org/licenses/gpl-3.0.en.html"><img src="https://img.shields.io/aur/license/yaourt.svg" alt="License: GPL"></a>
   <a href="https://github.com/fga-gpp-mds"><img src="https://img.shields.io/badge/gpp--mds-2017.1-orange.svg" alt="GPP/MDS 2017.1"></a>
   <a href="https://github.com/fga-gpp-mds/2017.1-Trezentos-RestAPI"><img src="https://img.shields.io/badge/REST%20API-Trezentos--API-orange.svg" alt="2017.1-Trezentos-API"></a>
+  <a href='https://coveralls.io/github/lucaaas/2017.1-Trezentos?branch=master'><img src='https://coveralls.io/repos/github/lucaaas/2017.1-Trezentos/badge.svg?branch=master' alt='Coverage Status' /></a>
+
 </p>
+
 
 
 <h1 align="center"> Metodologia Trezentos</h1>
